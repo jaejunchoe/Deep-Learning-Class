@@ -1,1 +1,1 @@
-# Deep-Learning-Class
+# Deep-Learning-Lecture
